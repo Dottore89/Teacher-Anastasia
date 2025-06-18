@@ -3,7 +3,7 @@ export default function Hero() {
     return (
         <div className="flex flex-col items-center text-center p-4 my-12">
             <div className="flex flex-col items-center gap-4">
-                <img className="h-45 rounded-full" src="./src/assets/Anastasia.webp"></img>
+                <img className="h-45 rounded-full" src="/Anastasia.webp"></img>
                 <div>
                     <h1 className="text-[#ede7d9] text-2xl lg:text-3xl">Learn Russian with a native teacher</h1>
                     <h2 className="text-[#ede7d9] lg:text-lg">Personalized classes for all levels, wherever you are.</h2>

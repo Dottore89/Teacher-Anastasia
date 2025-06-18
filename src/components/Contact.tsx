@@ -1,8 +1,4 @@
 // 7
-// [ Enviar ]            ← Botón con fondo degradado (azul a morado), efecto hover y animación de carga
-
-// confirmación tipo “¡Gracias! Tu mensaje ha sido enviado”
-//  que aparece con un fade in tras enviarlo.
 
 import { useState } from "react";
 import { FaInstagram } from "react-icons/fa";
